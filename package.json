@@ -59,7 +59,7 @@
     "url": "https://github.com/Leonidas-from-XIV/node-xml2js.git"
   },
   "dependencies": {
-    "sax": ">=0.6.0",
+    "sax": "^1.1.1",
     "xmlbuilder": ">=2.4.6"
   },
   "devDependencies": {
